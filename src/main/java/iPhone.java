@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class iPhone {
+public class iPhone {
+    public iPhone() {
+    }
 }
